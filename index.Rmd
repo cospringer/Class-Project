@@ -3,5 +3,26 @@ title: "Index"
 output: html_document
 date: "2024-05-13"
 ---
+project:
+  type: website
+  output-dir: docs
+  
+website:
+title: "Final Class Project"
+  navbar:
+  left:
+    - href: index.qmd
+      text: Home
+    - about.qmd
+      text: About
+      
+format:
+  html:
+    theme: bootstrap
+    css: style. css
+    toc: true
+    
+editor: visual
+
 [Final Project](Final-Project.html)
 

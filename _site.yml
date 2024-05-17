@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
   
-webstie:
+website:
 title: "Final Class Project"
   navbar:
   left:
