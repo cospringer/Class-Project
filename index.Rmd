@@ -14,7 +14,7 @@ title: "Final Class Project"
     - href: index.Rmd
       text: Home
     - Discussions.qmd
-      text: Discussion
+      text: Discussion 
   
       
 format:
