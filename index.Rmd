@@ -11,10 +11,11 @@ website:
 title: "Final Class Project"
   navbar:
   left:
-    - href: index.qmd
+    - href: index.Rmd
       text: Home
-    - about.qmd
-      text: About
+    - Discussions.qmd
+      text: Discussion
+  
       
 format:
   html:
@@ -24,5 +25,5 @@ format:
     
 editor: visual
 
-[Final Project](Final-Project.html)
+![Final Project](Final-Project.html)
 
